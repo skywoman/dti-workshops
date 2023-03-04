@@ -1,6 +1,8 @@
 # Skywoman Design & Tech Incubator Workshops
 For now, this is just a place to store public meeting notes, design documents, prototypes and other artifacts related to early-stage projects, workshops, hackathons, play dates, etc.
 
+Join the [`#design_tech_incubator`](https://discord.gg/HvXdzdeaW9) channel on the Skywoman Discord to learn more and get involved.
+
 ## Status Updates
 ### March 2023
 Current projects & workshops:
