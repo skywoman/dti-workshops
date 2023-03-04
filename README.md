@@ -3,6 +3,13 @@ For now, this is just a place to store public meeting notes, design documents, p
 
 Join the [`#design_tech_incubator`](https://discord.gg/HvXdzdeaW9) channel on the Skywoman Discord to learn more and get involved.
 
+## Schedule
+| Date        | Time    | Description                             |
+| ----------- | ------- | --------------------------------------- |
+| Mar 2, 2023 | 7pm EST | [Kick-off meeting] to discuss projects. |
+
+[Kick-off meeting]: https://docs.google.com/document/d/1C3SZ4gR8RD8RZjcHvp8YXCF2GlRSH7nDZxLneYSXQSs/edit#
+
 ## Status Updates
 ### March 2023
 Current projects & workshops:
