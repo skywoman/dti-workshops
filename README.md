@@ -4,15 +4,16 @@ For now, this is just a place to store public meeting notes, design documents, p
 Join the [`#design_tech_incubator`](https://discord.gg/HvXdzdeaW9) channel on the Skywoman Discord to learn more and get involved.
 
 ## Schedule
-| Date        | Time    | Description                                                              |
-| ----------- | ------- | ------------------------------------------------------------------------ |
-| Mar 2, 2023 | 7pm EST | [Kick-off meeting] to discuss projects.                                  |
-| Mar 8, 2023 | 6pm EST | Model the data architecture and list requirements for the Blackbird app. |
-| TBD         | TDB     | Wrap-up MAIA Project and prepare a summary presentation.                 |
-| TBD         | TDB     | Map out Runrig test cases, governance models, future workshops, etc.     |
+| Date        | Time    | Description                                                                |
+| ----------- | ------- | -------------------------------------------------------------------------- |
+| Mar 2, 2023 | 7pm EST | [Kick-off meeting] to discuss projects.                                    |
+| Mar 8, 2023 | 6pm EST | [Model the data architecture] and list requirements for the Blackbird app. |
+| TBD         | TDB     | Wrap-up MAIA Project and prepare a summary presentation.                   |
+| TBD         | TDB     | Map out Runrig test cases, governance models, future workshops, etc.       |
 
 [Kick-off meeting]: https://docs.google.com/document/d/1C3SZ4gR8RD8RZjcHvp8YXCF2GlRSH7nDZxLneYSXQSs/edit#
 [poll]: https://lettucemeet.com/l/JO0nA
+[Model the data architecture]: blackbird/2023-03-08-data-modelling-workshop.md
 
 ### Jitsi Meet
 Unless otherwise noted, scheduled events will be held in the Skywoman DTI Jitsi room:
