@@ -1,4 +1,13 @@
 # Blackbird Data Modeling
+## Workshop Details
+__Date & Time:__ Wednesday, March 8th, 2023, 6 - 7 PM EST
+
+__Location:__ [Jitsi Meet](https://meet.jit.si/skywoman-design-tech-incubator)
+
+__Facilitator:__ ?
+
+__Note taker:__ ?
+
 ## Agenda
 - Review primary requirements and features (see [below](#background--context))
   - Could it help to sketch out some user journeys for any of these?
