@@ -19,6 +19,14 @@ __Attendees:__ Chris, Connor, Trang, David, Laurel, Jamie
   - Any low-hanging fruit features that could be prototyped quickly, like dashboards or UI components?
   - Can Runrig be of any help here?
 
+## Action Items
+- Jamie
+  - a super basic wireframe for the "inventory &LeftRightArrow; orders" dashboard
+- Chris
+  - ?
+- David
+  - ?
+
 ## Notes
 - Chris: What would be some useful prototypes for Blackbird's requirements:
   - dead simple inventory tracking
