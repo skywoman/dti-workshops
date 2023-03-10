@@ -23,9 +23,10 @@ __Attendees:__ Chris, Connor, Trang, David, Laurel, Jamie
 - Jamie
   - a super basic wireframe for the "inventory &LeftRightArrow; orders" dashboard
 - Chris
-  - ?
+  - Database schema refinement
 - David
-  - ?
+  - Additions to the database schema
+  - proposal for data model for converting production units to inventory items.
 
 ## Notes
 - Chris: What would be some useful prototypes for Blackbird's requirements:
